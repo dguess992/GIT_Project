@@ -1,3 +1,7 @@
 Maade te first change to file 1
+<<<<<<< HEAD
 
 this is change 2 to file 1
+=======
+online changes
+>>>>>>> 919795636c6c79a7a6acd486eccfff978df90dcf
